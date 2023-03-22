@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task": "Building to do app"
+    },
+    {
+      "id": 2,
+      "task": "Wake Up Early"
+    },
+    {
+      "id": 3,
+      "task": "Gratitude"
+    },
+    {
+      "id": 4,
+      "task": "baru nih"
+    },
+    {
+      "id": 5,
+      "task": "baru nih gan"
+    }
+  ]
+}
